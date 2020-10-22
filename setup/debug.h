@@ -10,10 +10,15 @@
 #define PREFER_MALLOC 0
 #define BOUNDS_CHECK 0
 
-//#define OBJ_TYP_CTR 1
+#ifdef DEBUG
+
 #define OBJ_REF_DBG 1
 #define OBJ_TYP_CTR 0
-//#define OBJ_REF_DBG 0
 
+#else
 
+#define OBJ_REF_DBG 0
+#define OBJ_TYP_CTR 0
+
+#endif
 
