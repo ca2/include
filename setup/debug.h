@@ -11,9 +11,9 @@
 #define BOUNDS_CHECK 0
 
 //#define OBJ_TYP_CTR 1
-#define OBJ_REF_DBG 0
+#define OBJECT_REF_DEBUG 0
 #define OBJ_TYP_CTR 0
-//#define OBJ_REF_DBG 0
+//#define OBJECT_REF_DEBUG 0
 
 
 
