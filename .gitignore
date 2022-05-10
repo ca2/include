@@ -8,8 +8,8 @@ cmake-time-*/
 **/.git
 **/.svn
 **/.link_object
-
 **/CVS
+*.xcuserdata
 .DS_Store
 ._.DS_Store
 *.suo
