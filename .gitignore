@@ -4,6 +4,7 @@ cmake-build-*/
 cmake-time-*/
 **/CMakeFiles
 **/.vs
+**/.vscode
 **/.DS_Store
 **/.git
 **/.svn
