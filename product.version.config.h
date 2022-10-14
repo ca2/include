@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 
 #ifdef _DEBUG
@@ -14,5 +14,8 @@
 
 
 #endif
+
+#include "__build_settings.h"
+
 
 
